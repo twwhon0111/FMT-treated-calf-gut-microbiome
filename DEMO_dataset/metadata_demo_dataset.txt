@@ -1,0 +1,3 @@
+sample-id	barcode-sequence	LinkerPrimerSequence	group	forward-primer	reverse-primer
+STD-1		GCTGCCTCCCGTAGGAGT	STD-1	27F	338R
+STD-2		GCTGCCTCCCGTAGGAGT	STD-2	27F	338R
